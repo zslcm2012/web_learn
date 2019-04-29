@@ -34,7 +34,8 @@
 ## 2019/04/16 version V1.4.4
 ## when the _CNV_ projects' resolove is not 10M, lib is not MALBAC_1_step_lib,the Project_warning log is made to result/local_report
 ## modify parse karyotype to chr_one,chr_another:inv(\d+|\w+)
-
+## 2019/04/29 version V1.4.4
+## test git
 
 import os
 import sys
