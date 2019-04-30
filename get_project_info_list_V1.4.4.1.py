@@ -36,6 +36,7 @@
 ## modify parse karyotype to chr_one,chr_another:inv(\d+|\w+)
 ## 2019/04/29 version V1.4.4
 ## test git
+## test git second
 
 import os
 import sys
